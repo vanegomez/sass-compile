@@ -18,7 +18,7 @@
     }
   }
 ```
-3. In your terminal, to compile and create a .css file in order to see the css output:  
+3. To compile and create a .css file in order to see the css output, from your terminal run:  
 ```
   sass style.scss style.css
 ```
